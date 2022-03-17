@@ -1,4 +1,4 @@
-# 西安电子科技大学健康卡脚本
+# 西安电子科技大学（广州研究院）健康卡脚本
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/azxj/xdu-health-card)
 ![GitHub last commit](https://img.shields.io/github/last-commit/azxj/xdu-health-card)
