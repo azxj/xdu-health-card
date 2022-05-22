@@ -1,8 +1,8 @@
 # 西安电子科技大学（广州研究院）健康卡脚本
 
-![GitHub repo size](https://img.shields.io/github/repo-size/azxj/xdu-health-card)
-![GitHub last commit](https://img.shields.io/github/last-commit/azxj/xdu-health-card)
-![GitHub](https://img.shields.io/github/license/azxj/xdu-health-card)
+![GitHub repo size](https://img.shields.io/github/repo-size/xiaojianzhong/xdu-health-card)
+![GitHub last commit](https://img.shields.io/github/last-commit/xiaojianzhong/xdu-health-card)
+![GitHub](https://img.shields.io/github/license/xiaojianzhong/xdu-health-card)
 
 ## 目录
 
